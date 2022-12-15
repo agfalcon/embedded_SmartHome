@@ -7,7 +7,7 @@
 
 ----
 ## 전체 시스템 구조
-<img src = "https://user-images.githubusercontent.com/46674066/207764959-25c48553-5cac-4623-92a7-6d6fef7557cf.png" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/46674066/207765985-474f9d4c-5e6b-46ce-a5ed-19586b888994.png" width="30%" height="30%">
 
 
 ----
