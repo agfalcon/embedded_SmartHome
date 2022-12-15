@@ -28,6 +28,7 @@
 <img src = "https://user-images.githubusercontent.com/46674066/207794034-3ce1a0e9-1c6f-4db3-80c3-e62b6d35c634.png" width= "40%" height="40%">
 
 ### 3.2 UP & DOWN GAME
+<img src = "https://user-images.githubusercontent.com/46674066/207795471-a6ff9270-a088-4967-8238-30f457ba5a5a.png" width= "40%" height="40%">
 
 ### 3.3 
 
