@@ -21,6 +21,8 @@
 4. 스마트폰은 UI를 통해 사용할 기능의 번호를 보낸다. 
 5. 스마트폰은 전달받은 번호를 통해 해당 기능을 실행한다.
 
+<img src = "https://user-images.githubusercontent.com/46674066/207801598-d7d11bbf-a575-4cd1-a72b-5f1b20f083df.png" width= "40%" height="40%">
+
 
 ----
 ## 3. 개별 시스템 구조
