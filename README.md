@@ -30,7 +30,8 @@ Red Font
 
 ## 4. 제한 조건 및 구현 내용
 
-### <mark>[THREAD]</mark>
+### <span style="color:red">[THREAD]</span>
+ 
 
 #### 시스템 기능 제어
 블루투스 연결을 통한 시스템 기능 제어
