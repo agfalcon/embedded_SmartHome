@@ -7,6 +7,8 @@
 추가로 단순 제어뿐만이 아닌, 여가시간 중 즐길 수 있는 게임도 탑재한다.
 
 ----
+
+
 ## 전체 시스템 구조
 <img src = "https://user-images.githubusercontent.com/46674066/207770377-415019a8-d35f-4e05-a736-fc1f1df2b1cd.png" width= "40%" height="40%">
 
@@ -21,8 +23,11 @@
 
 ----
 ## 개별 시스템 구조
-
 ----
+
+
+## 제한 조건 및 구현 내용
+
 
 
 ## 개발 시 문제점 및 해결방안
@@ -39,10 +44,4 @@
 <span style="color: red">red</span>
 
 
-<span style="color:red">
-
-빨강 글씨
-
-Red Font
-
-</span>
+<span style="color:red">Red Font</span>
