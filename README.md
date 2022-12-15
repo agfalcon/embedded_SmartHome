@@ -29,7 +29,7 @@
 ## 제한 조건 및 구현 내용
 <span style="color:yellow"> 노란 글씨입니다. </span>
 
-### Thread
+### [THREAD]
 
 #### 시스템 기능 제어
 블루투스 연결을 통한 시스템 기능 제어
