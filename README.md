@@ -45,7 +45,6 @@
 
 <img src = "https://user-images.githubusercontent.com/46674066/207802235-796ea552-3b00-4bfa-998d-77ce7aa6a287.png" width= "30%" height="30%">
 
----
 
 ### 3.2 UP & DOWN GAME
 <img src = "https://user-images.githubusercontent.com/46674066/207797552-5c75bf33-55e4-4500-9848-bdf1ef7980d9.png" width= "40%" height="40%">
