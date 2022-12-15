@@ -28,7 +28,7 @@
 
 
 ----
-## 3. 개별 시스템 구조
+## 3. 개별 시스템 구조 및 기능
 
 ### 3.1 알람
 <img src = "https://user-images.githubusercontent.com/46674066/207796227-d4d261d3-f57a-419c-b4d0-62bfc2509693.png" width= "40%" height="40%">
@@ -65,7 +65,15 @@
 3. 플레이어가 틀렸을 경우 LED 하나가 꺼지며 passive buzzer에서 오답알림음 재생 및 1~ 2가 반복된다. 
 4. 플레이어가 3번안에 정답을 맞히지 못할 시, 게임이 종료된다.
 5. 플레이어가 정답을 맞혔다면 passive buzzer에서 정답알림음 재생 및 게임이 종료된다.
-<img src = "https://user-images.githubusercontent.com/46674066/207804464-864af04f-584a-4491-8913-0607161c8fb7.png" width= "30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/46674066/207804464-864af04f-584a-4491-8913-0607161c8fb7.png" width= "30%" height="30%">    
+
+### 선풍기 조절
+
+### 현재 집 상태
+
+### 전기요금 확인
+
+
 
 
 ----
