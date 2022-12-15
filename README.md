@@ -1,6 +1,7 @@
 # Embedded_SmartHome
 ## 스마트 홈을 위한 라즈베리 파이 기반 프로그램
 ###  영상 링크
+<img src = "https://user-images.githubusercontent.com/46450349/207894326-71848e94-fd92-4746-a4d3-b574310dad0a.mp4" width= "40%" height="40%">
 
 ----
 ## 1. 개발 목적
@@ -21,8 +22,6 @@
 3. 라즈베리파이가 데이터를 받게되면 시스템이 가동되고, 스마트폰으로 사용 UI를 출력한다.
 4. 스마트폰은 UI를 통해 사용할 기능의 번호를 보낸다. 
 5. 스마트폰은 전달받은 번호를 통해 해당 기능을 실행한다.   
-
-
 
 <img src = "https://user-images.githubusercontent.com/46674066/207801598-d7d11bbf-a575-4cd1-a72b-5f1b20f083df.png" width= "30%" height="30%">
 
@@ -67,13 +66,28 @@
 5. 플레이어가 정답을 맞혔다면 passive buzzer에서 정답알림음 재생 및 게임이 종료된다.
 <img src = "https://user-images.githubusercontent.com/46674066/207804464-864af04f-584a-4491-8913-0607161c8fb7.png" width= "30%" height="30%">    
 
+
+### 3.3 현재 집 상태
+<img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">    
++ 현재 집 상태를 확인할 수 있는 기능 현재는 집안의 온도를 확인 할 수 있다.
++ 메인 메뉴에서 3을 입력하는 것으로 확인 할 수 있다.
+
 ### 3.4 선풍기 조절
++ UART통신으로 블루투스 선풍기를 조작한다.
 
-### 3.5 현재 집 상태
+<img src = "https://user-images.githubusercontent.com/46450349/207887990-ef1af77f-1a77-44be-85fb-89e2d90d18a1.PNG" width= "30%" height="30%">    
+<img src = "https://user-images.githubusercontent.com/46450349/207888134-4d0d8202-f1fd-4c0e-bc61-68b9df8b588c.PNG" width= "30%" height="30%">   
++ 2장의 사진을 통해서 선풍기가 동작하는 것을 확인 할 수 있다.
 
-### 3.6 전기요금 확인
+1. 메인 메뉴에서 4를 입력하는 것으로 선풍기 조작 메뉴로 들어간다.
+2. 1은 정지, 2는 미풍, 3은 중풍, 4는 강풍
 
+### 3.5 전기요금 확인
+<img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">   
 
+1. 메인 메뉴에서 5를 입력하는 것으로 전기 요금을 확인 할 수 있다.
+2. 디폴트로 1초에 1씩 증가하게 설정되어 있다.
+3. 게임(3.2)가 진행 중에는 1초에 3씩 증가하게 설정되어 있다.
 
 
 ----
