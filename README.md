@@ -27,10 +27,10 @@
 ### 3.1 알람
 <img src = "https://user-images.githubusercontent.com/46674066/207794034-3ce1a0e9-1c6f-4db3-80c3-e62b6d35c634.png" width= "40%" height="40%">
 
-### 3.2 UP & DOWN GAME
-<img src = "https://user-images.githubusercontent.com/46674066/207795471-a6ff9270-a088-4967-8238-30f457ba5a5a.png" width= "40%" height="40%">
 
-### 3.3 
+
+### 3.2 UP & DOWN GAME
+<img src = "https://user-images.githubusercontent.com/46674066/207795913-de9ab143-a2c7-4a4f-8287-adf33647c9ad.png" width= "40%" height="40%">
 
 ----
 
