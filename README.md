@@ -31,7 +31,8 @@
 
 
 ### 3.2 UP & DOWN GAME
-<img src = "https://user-images.githubusercontent.com/46674066/207795913-de9ab143-a2c7-4a4f-8287-adf33647c9ad.png" width= "40%" height="40%">
+<img src = "https://user-images.githubusercontent.com/46674066/207797552-5c75bf33-55e4-4500-9848-bdf1ef7980d9.png" width= "40%" height="40%">
+
 
 ----
 
