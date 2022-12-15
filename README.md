@@ -41,7 +41,7 @@
 4. 알람을 설정할 분(minute)을 입력, F키를 입력하여 입력을 완료했다는 메세지를 라즈베리파이에게 전달한다.
 
 알림이 설정된 시각이 되면 Passive Buzzer를 이용해 소리로 해당 시간임을 알리며, 동시에 LED도 켜진다.   
-또한 커튼걷기 설정을 했다면 모터가 동작하여 커튼을 걷는다.<br>
+또한 커튼걷기 설정을 했다면 모터가 동작하여 커튼을 걷는다.
 
 <img src = "https://user-images.githubusercontent.com/46674066/207802235-796ea552-3b00-4bfa-998d-77ce7aa6a287.png" width= "30%" height="30%">
 
@@ -50,6 +50,7 @@
 <img src = "https://user-images.githubusercontent.com/46674066/207797552-5c75bf33-55e4-4500-9848-bdf1ef7980d9.png" width= "40%" height="40%">
 
 스마트폰과의 UART 통신을 통해 값을 입력받아 UP & DOWN 게임을 실행하는 기능이다.<br>
+
 [UP & DOWN 게임이란?]
 1. 숫자를 하나 입력한다.
 2. 정답이 말한 숫자보다 높다면 UP / 낮으면 DOWN으로 메시지를 출력한다.
