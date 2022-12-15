@@ -25,6 +25,7 @@
 ## 3. 개별 시스템 구조
 
 ### 3.1 알람
+<img src = "https://user-images.githubusercontent.com/46674066/207794034-3ce1a0e9-1c6f-4db3-80c3-e62b6d35c634.png" width= "40%" height="40%">
 ### 3.2 UP & DOWN GAME
 ### 3.3 
 <span style="color:red">붉은 색</span>
