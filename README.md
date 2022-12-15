@@ -10,7 +10,7 @@
 
 ----
 ## 전체 시스템 구조
-<img src = "https://user-images.githubusercontent.com/46674066/207764959-25c48553-5cac-4623-92a7-6d6fef7557cf.png" width= "40%" height="40%">
+<img src = "https://user-images.githubusercontent.com/46674066/207770377-415019a8-d35f-4e05-a736-fc1f1df2b1cd.png" width= "40%" height="40%">
 
 
 ----
