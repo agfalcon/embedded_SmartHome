@@ -7,8 +7,14 @@
 
 ----
 ## 전체 시스템 구조
-<img src = "https://user-images.githubusercontent.com/46674066/207766166-7c720a7e-cbf3-4b7a-beb4-9f7547935fac.png" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/46674066/207766166-7c720a7e-cbf3-4b7a-beb4-9f7547935fac.png" width="40%" height="40%">
 
+### 게임
+
+
+### 알람
+
+### 가전
 
 ----
 ## 개별 시스템 구조
