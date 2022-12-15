@@ -49,7 +49,7 @@
 ### 3.2 UP & DOWN GAME
 <img src = "https://user-images.githubusercontent.com/46674066/207797552-5c75bf33-55e4-4500-9848-bdf1ef7980d9.png" width= "40%" height="40%">
 
-스마트폰과의 UART 통신을 통해 값을 입력받아 UP & DOWN 게임을 실행하는 기능이다.<br>
++ 스마트폰과의 UART 통신을 통해 값을 입력받아 UP & DOWN 게임을 실행하는 기능이다.<br>
 
 #### UP & DOWN 게임이란?
 1. 숫자를 하나 입력한다.
