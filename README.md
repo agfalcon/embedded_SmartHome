@@ -27,7 +27,7 @@
 
 
 ## 제한 조건 및 구현 내용
-<span style="color:yellow">노란 글씨입니다.</span>
+<span style="color:yellow"> 노란 글씨입니다. </span>
 
 
 ## 개발 시 문제점 및 해결방안
