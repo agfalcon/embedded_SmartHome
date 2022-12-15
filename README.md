@@ -2,19 +2,19 @@
 ## 스마트 홈을 위한 라즈베리 파이 기반 프로그램
 
 ----
-# 개발 동기
-
-----
-# 개발 목적
+## 개발 목적
 
 
 ----
-# 전체 시스템 구조
-![image](https://user-images.githubusercontent.com/46674066/207764959-25c48553-5cac-4623-92a7-6d6fef7557cf.png)
+## 전체 시스템 구조
+<img src = "![image](https://user-images.githubusercontent.com/46674066/207764959-25c48553-5cac-4623-92a7-6d6fef7557cf.png)" width="width size%" height="height size%">
 
 
 ----
 ## 개별 시스템 구조
+
+----
+
 
 ----
 
