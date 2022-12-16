@@ -3,7 +3,7 @@
 ###  영상 
 <img src = "https://user-images.githubusercontent.com/46450349/207894326-71848e94-fd92-4746-a4d3-b574310dad0a.mp4" width= "40%" height="40%">
 
-[데모 영상](https://www.youtube.com/watch?v=MdG2UAjZmLU)
+[최종 데모 영상 링크](https://www.youtube.com/watch?v=MdG2UAjZmLU)
 
 ----
 
