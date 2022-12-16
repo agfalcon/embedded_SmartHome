@@ -73,10 +73,12 @@
 ---
 
 ### 3.3 현재 집 상태
-<img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">    
 
 + 현재 집 상태를 확인할 수 있는 기능 현재는 집안의 온도를 확인 할 수 있다.
 + 메인 메뉴에서 3을 입력하는 것으로 확인 할 수 있다.
+<img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">    
+
+
 
 ---
 
