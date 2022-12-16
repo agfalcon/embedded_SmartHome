@@ -70,12 +70,15 @@
 5. 플레이어가 정답을 맞혔다면 passive buzzer에서 정답알림음 재생 및 게임이 종료된다.
 <img src = "https://user-images.githubusercontent.com/46674066/207804464-864af04f-584a-4491-8913-0607161c8fb7.png" width= "30%" height="30%">    
 
+---
 
 ### 3.3 현재 집 상태
 <img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">    
 
 + 현재 집 상태를 확인할 수 있는 기능 현재는 집안의 온도를 확인 할 수 있다.
 + 메인 메뉴에서 3을 입력하는 것으로 확인 할 수 있다.
+
+---
 
 ### 3.4 선풍기 조절
 + UART통신으로 블루투스 선풍기를 조작한다.
@@ -87,6 +90,8 @@
 
 1. 메인 메뉴에서 4를 입력하는 것으로 선풍기 조작 메뉴로 들어간다.
 2. 1은 정지, 2는 미풍, 3은 중풍, 4는 강풍
+
+---
 
 ### 3.5 전기요금 확인
 <img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">   
