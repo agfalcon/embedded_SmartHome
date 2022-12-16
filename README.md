@@ -83,22 +83,32 @@
 ### 3.4 선풍기 조절
 + UART통신으로 블루투스 선풍기를 조작한다.
 
-<img src = "https://user-images.githubusercontent.com/46450349/207887990-ef1af77f-1a77-44be-85fb-89e2d90d18a1.PNG" width= "30%" height="30%">    
-<img src = "https://user-images.githubusercontent.com/46450349/207888134-4d0d8202-f1fd-4c0e-bc61-68b9df8b588c.PNG" width= "30%" height="30%">   
-
-+ 2장의 사진을 통해서 선풍기가 동작하는 것을 확인 할 수 있다.
 
 > 1. 메인 메뉴에서 4를 입력하는 것으로 선풍기 조작 메뉴로 들어간다.
 > 2. 1은 정지, 2는 미풍, 3은 중풍, 4는 강풍
 
++ 2장의 사진을 통해서 선풍기가 동작하는 것을 확인 할 수 있다.
+
+<img src = "https://user-images.githubusercontent.com/46450349/207887990-ef1af77f-1a77-44be-85fb-89e2d90d18a1.PNG" width= "30%" height="30%">    
+<img src = "https://user-images.githubusercontent.com/46450349/207888134-4d0d8202-f1fd-4c0e-bc61-68b9df8b588c.PNG" width= "30%" height="30%">   
+
+
+
+
+
 ---
 
 ### 3.5 전기요금 확인
-<img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">   
+
+
 
 > 1. 메인 메뉴에서 5를 입력하는 것으로 전기 요금을 확인 할 수 있다.
 > 2. 디폴트로 1초에 1씩 증가하게 설정되어 있다.
 > 3. 게임(3.2)가 진행 중에는 1초에 3씩 증가하게 설정되어 있다.
+
+
+<img src = "https://user-images.githubusercontent.com/46450349/207888669-b89dd2d5-95f0-430b-be82-f0f14195f2c4.PNG" width= "30%" height="30%">   
+
 
 
 ----
